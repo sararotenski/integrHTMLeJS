@@ -1,0 +1,18 @@
+body {
+    background-color: #B484D6;
+    font-family: verdana;
+}
+
+button {
+    background-color: #c6b3d3;
+    border: 1px solid;
+}
+
+input {
+    background-color: #c6b3d3;
+    border: 1px solid;
+}
+
+h1 {
+    font-size: 25px;
+}
